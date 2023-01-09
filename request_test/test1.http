@@ -1,0 +1,9 @@
+POST http://localhost:8080/create_short_url
+
+{
+    "long_url": "https://www.google.com",
+    "user_id" : "wqer7c6-7wer-qnof-fneiun"
+}
+
+###
+
